@@ -1,3 +1,8 @@
+## Tipo de revisión
+<!-- Marca una. -->
+- [ ] 🟢 **Light**: cambio acotado, revisión rápida
+- [ ] 🟠 **Normal**: lógica no trivial, revisión completa
+
 ## Qué
 <!-- Qué cambia, en una o dos frases. -->
 
